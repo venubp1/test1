@@ -7,9 +7,3 @@ leaf user-name {
 	type string;
 	description "Name of the user in user list.";
 	}
-
-leaf user-model {
-	type string;
-	description "Model of the user in user lista and it is user-specified.";
-	}
-

@@ -2,8 +2,3 @@ leaf display-name {
 	type string;
 	description "Adding the display-name to directory.";
 	}
-	
-leaf user-name {
-	type string;
-	description "Name of the user in user list.";
-	}
